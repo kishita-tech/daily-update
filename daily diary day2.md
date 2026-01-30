@@ -1,6 +1,7 @@
 DAY2-GIT GUI & WORKFLOW
 
-*Introduction to git GUI
+#Introduction to git GUI
+
 *Tracking files
 * staging changes
 * Committing changes
